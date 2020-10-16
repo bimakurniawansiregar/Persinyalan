@@ -31,4 +31,13 @@ Bluetooth merupakan sebuah teknologi berjenis wireless atau nirkabel. Teknologi 
 Wi-Fi (/ˈwaɪfaɪ/, juga ditulis Wifi atau WiFi) adalah sebuah teknologi yang memanfaatkan peralatan elektronik untuk bertukar data secara nirkabel (menggunakan gelombang radio) melalui sebuah jaringan komputer, termasuk koneksi Internet berkecepatan tinggi. Wi-Fi Alliance mendefinisikan Wi-Fi sebagai “produk jaringan area lokal nirkabel (WLAN) apapun yang didasarkan pada standar Institute of Electrical and Electronics Engineers (IEEE) 802.11”.[1] Meski begitu, karena kebanyakan WLAN zaman sekarang didasarkan pada standar tersebut, istilah “Wi-Fi” dipakai dalam bahasa Inggris umum sebagai sinonim “WLAN”.Sebuah alat yang dapat memakai Wi-Fi (seperti komputer pribadi, konsol permainan video, telepon pintar, tablet, atau pemutar audio digital) dapat terhubung dengan sumber jaringan seperti Internet melalui sebuah titik akses jaringan nirkabel. Titik akses (atau hotspot) seperti itu mempunyai jangkauan sekitar 20 meter (65 kaki) di dalam ruangan dan lebih luas lagi di luar ruangan. Cakupan hotspot dapat mencakup wilayah seluas kamar dengan dinding yang memblokir gelombang radio atau beberapa mil persegi — ini bisa dilakukan dengan memakai beberapa titik akses yang saling tumpang tindih.
 # Jenis-Jenis Sinyal WiFi
 Teknologi wireless (nirkabel) adalah sebuah teknologi pengembangan dari jaringan komputer yang sebelumnya menggunakan kabel sebagai media penghubungnya. wireless memanfaatkan udara/gelombang elektromagnetik sebagai media lalu lintas pertukaran datanya.Sampai saat ini, teknologi jaringan wireless yang bekerja pada frekuensi 2.4 GHz, dan/atau 5GHz berkembang pesat sekali terutama karena pembebasan izin frekuensi di band Industrial Scientific Medical (ISM) maupun band Unlicensed National Information Infrastructure.
-# 1. Wireless Personal Area Network (WPAN)
+## 1. Wireless Personal Area Network (WPAN)
+![image](wpan.jpg)
+WPAN (Wireless Personal Area Network) adalah sebuah bentuk komunikasi wireless yang terbatas hanya pada jarak pendek dan umumnya hanya terbatas untuk dua buah perangkat elektronik (Afriana, L. 2013. Implementasi Dan Analisis Kinerja Routing Protocol B.A.T.M.A.N-Adv (Better Approach To Mobile Ad-Hoc Networking Advanced) Pada Jaringan Berbasis Wireless Mesh. Skripsi. Universitas Indonesia.). Media yang biasa digunakan untuk WPAN antara lain :
+
+a.Radio Frequency (RF)
+
+b.Infra Red (IR)
+
+c.Bluetooth
+## 2.Wireless Local Area Network (WLAN)
