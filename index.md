@@ -11,11 +11,13 @@ Sinyal RF merambat di antara antena pemancar pengirim dan penerima. Seperti yang
 Inframerah adalah radiasi elektromagnetik dari panjang gelombang lebih panjang dari cahaya tampak, tetapi lebih pendek dari radiasi gelombang radio. Namanya berarti “bawah merah” (dari bahasa Latin infra, “bawah”), merah merupakan warna dari cahaya tampak dengan gelombang terpanjang. Radiasi inframerah memiliki jangkauan tiga “order” dan memiliki panjang gelombang antara 700 nm dan 1 mm. Inframerah ditemukan secara tidak sengaja oleh Sir William Herschell, astronom kerajaan Inggris ketika ia sedang mengadakan penelitian mencari bahan penyaring optis yang akan digunakan untuk mengurangi kecerahan gambar matahari pada teleskop tata surya.
 # Karakteristik
 >1.tidak dapat dilihat oleh penglihatan manusia.
->2.tidak dapat menembus materi yang tidak tembus pandang.
->3.dapat ditimbulkan oleh komponen yang menghasilkan panas.
->4.Panjang gelombang pada inframerah memiliki hubungan yang berlawanan atau berbanding terbalik dengan suhu. Ketika suhu mengalami kenaikan, maka panjang gelombang mengalami penurunan.
+2.tidak dapat menembus materi yang tidak tembus pandang.
+3.dapat ditimbulkan oleh komponen yang menghasilkan panas.
+4.Panjang gelombang pada inframerah memiliki hubungan yang berlawanan atau berbanding terbalik dengan suhu. Ketika suhu mengalami kenaikan, maka panjang gelombang mengalami penurunan.
 # Jenis-Jenis Inframerah Berdasarkan Panjang Gelombang
 >1.Inframerah jarak dekat dengan panjang gelombang 0.75 – 1.5 µm.
->2.Inframerah jarak menengah dengan panjang gelombang 1.50 – 10 µm.
->3.Inframerah jarak jauh dengan panjang gelombang 10 – 100 µm.
+2.Inframerah jarak menengah dengan panjang gelombang 1.50 – 10 µm.
+3.Inframerah jarak jauh dengan panjang gelombang 10 – 100 µm.
 ## 3.Bluetooth
+![image](image2.png)
+Bluetooth merupakan sebuah teknologi berjenis wireless atau nirkabel. Teknologi ini dikembangkan oleh BSIG atau Bluetooth Special Interest Group. Bluetooth berguna untuk memindahkan data dari satu perangkat ke perangkat lainnya tanpa memerlukan kabel. Jarak yang diperlukan Bluetooth untuk dapat berkomunikasi antar perangkat yaitu antara 1 hingga 100 meter.Sebuah perangkat Bluetooth dapat terhubung hingga ke tujuh perangkat. Saat ini teknologi Bluetooth telah dibenamkan dalam banyak perangkat elektronik, seperti smartphone, laptop, headphone, dan lain-lain. Pada smartphone misalnya, fitur Bluetooth memungkinkan kita untuk mengirimkan file berupa gambar, video, musik, dan lainnya.
