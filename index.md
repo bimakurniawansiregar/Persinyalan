@@ -10,14 +10,25 @@ Sinyal RF merambat di antara antena pemancar pengirim dan penerima. Seperti yang
 ![image](image1.png)
 Inframerah adalah radiasi elektromagnetik dari panjang gelombang lebih panjang dari cahaya tampak, tetapi lebih pendek dari radiasi gelombang radio. Namanya berarti “bawah merah” (dari bahasa Latin infra, “bawah”), merah merupakan warna dari cahaya tampak dengan gelombang terpanjang. Radiasi inframerah memiliki jangkauan tiga “order” dan memiliki panjang gelombang antara 700 nm dan 1 mm. Inframerah ditemukan secara tidak sengaja oleh Sir William Herschell, astronom kerajaan Inggris ketika ia sedang mengadakan penelitian mencari bahan penyaring optis yang akan digunakan untuk mengurangi kecerahan gambar matahari pada teleskop tata surya.
 # Karakteristik
->1.tidak dapat dilihat oleh penglihatan manusia.
+1.tidak dapat dilihat oleh penglihatan manusia.
+
 2.tidak dapat menembus materi yang tidak tembus pandang.
+
 3.dapat ditimbulkan oleh komponen yang menghasilkan panas.
+
 4.Panjang gelombang pada inframerah memiliki hubungan yang berlawanan atau berbanding terbalik dengan suhu. Ketika suhu mengalami kenaikan, maka panjang gelombang mengalami penurunan.
 # Jenis-Jenis Inframerah Berdasarkan Panjang Gelombang
->1.Inframerah jarak dekat dengan panjang gelombang 0.75 – 1.5 µm.
+
+1.Inframerah jarak dekat dengan panjang gelombang 0.75 – 1.5 µm.
+
 2.Inframerah jarak menengah dengan panjang gelombang 1.50 – 10 µm.
+
 3.Inframerah jarak jauh dengan panjang gelombang 10 – 100 µm.
 ## 3.Bluetooth
 ![image](image2.png)
 Bluetooth merupakan sebuah teknologi berjenis wireless atau nirkabel. Teknologi ini dikembangkan oleh BSIG atau Bluetooth Special Interest Group. Bluetooth berguna untuk memindahkan data dari satu perangkat ke perangkat lainnya tanpa memerlukan kabel. Jarak yang diperlukan Bluetooth untuk dapat berkomunikasi antar perangkat yaitu antara 1 hingga 100 meter.Sebuah perangkat Bluetooth dapat terhubung hingga ke tujuh perangkat. Saat ini teknologi Bluetooth telah dibenamkan dalam banyak perangkat elektronik, seperti smartphone, laptop, headphone, dan lain-lain. Pada smartphone misalnya, fitur Bluetooth memungkinkan kita untuk mengirimkan file berupa gambar, video, musik, dan lainnya.
+## 4.Wifi
+Wi-Fi (/ˈwaɪfaɪ/, juga ditulis Wifi atau WiFi) adalah sebuah teknologi yang memanfaatkan peralatan elektronik untuk bertukar data secara nirkabel (menggunakan gelombang radio) melalui sebuah jaringan komputer, termasuk koneksi Internet berkecepatan tinggi. Wi-Fi Alliance mendefinisikan Wi-Fi sebagai “produk jaringan area lokal nirkabel (WLAN) apapun yang didasarkan pada standar Institute of Electrical and Electronics Engineers (IEEE) 802.11”.[1] Meski begitu, karena kebanyakan WLAN zaman sekarang didasarkan pada standar tersebut, istilah “Wi-Fi” dipakai dalam bahasa Inggris umum sebagai sinonim “WLAN”.Sebuah alat yang dapat memakai Wi-Fi (seperti komputer pribadi, konsol permainan video, telepon pintar, tablet, atau pemutar audio digital) dapat terhubung dengan sumber jaringan seperti Internet melalui sebuah titik akses jaringan nirkabel. Titik akses (atau hotspot) seperti itu mempunyai jangkauan sekitar 20 meter (65 kaki) di dalam ruangan dan lebih luas lagi di luar ruangan. Cakupan hotspot dapat mencakup wilayah seluas kamar dengan dinding yang memblokir gelombang radio atau beberapa mil persegi — ini bisa dilakukan dengan memakai beberapa titik akses yang saling tumpang tindih.
+# Jenis-Jenis Sinyal WiFi
+Teknologi wireless (nirkabel) adalah sebuah teknologi pengembangan dari jaringan komputer yang sebelumnya menggunakan kabel sebagai media penghubungnya. wireless memanfaatkan udara/gelombang elektromagnetik sebagai media lalu lintas pertukaran datanya.Sampai saat ini, teknologi jaringan wireless yang bekerja pada frekuensi 2.4 GHz, dan/atau 5GHz berkembang pesat sekali terutama karena pembebasan izin frekuensi di band Industrial Scientific Medical (ISM) maupun band Unlicensed National Information Infrastructure.
+# 1. Wireless Personal Area Network (WPAN)
