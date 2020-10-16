@@ -106,4 +106,5 @@ B. Jika terjadi oktaf dari semua nol dan pulsa tegangan terakhir yang mendahului
 ## 7.High-Density Bipolar - 3 Zeros (HDB3)
 Suatu kode dimana menggantikan string-string dari 4 nol dengan rangkaian yang mengandung satu atau dua pulsa atau disebut kode violation, jika violation terakhir positive maka violation ini pasti negative dan sebaliknya.
 ![image](aturan.jpg)
+
 Kedua kode ini berdasarkan pada penggunaan AMI encoding dan cocok untuk transmisi dengan data rate tinggi.
