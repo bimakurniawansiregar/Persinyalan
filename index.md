@@ -96,7 +96,7 @@ Encoding adalah penyandian atau proses untuk mengubah sinyal asal, ke dalam bent
 Contoh : untuk kode manchester, maksimum modulation rate = 2 / tB. Salah satu cara menyatakan modulation rate yaitu dengan menentukan rata-rata jumlah transisi yang terjadi per bit time.
 ## 5.Scrambling Technique
 Teknik biphase memerlukan kecepatan pensinyalan yang tinggi relatif terhadap data rate sehingga lebih mahal pada aplikasi jarak jauh sehingga digunakan teknik scrambling dimana serangkaian level tegangan yang tetap pada line digantikan dengan serangkaian pengisi yang akan melengkapi transisi yang cukup untuk clock receiver mempertahankan synchronisasi.
- 6.Bipolar with 8-Zeros Substitution (B8ZS)
+## 6.Bipolar with 8-Zeros Substitution (B8ZS)
 Suatu kode dimana :
 
 A. Jika terjadi oktaf dari semua nol dan pulsa tegangan terakhir yang mendahului oktaf ini adalah positif, maka 8 nol dari oktaf tersebut di-encode sebagai 000+-0- +
