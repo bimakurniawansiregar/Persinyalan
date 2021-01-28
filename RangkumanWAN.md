@@ -63,5 +63,6 @@ Antena Parabolic
 Antena Gain
 Oke kita masuk ke Propagasi nah propagasi ini adalah cara bagaimana sinyal di pantulkan Ada yang di dipantulkan lurus dan ada yang memantul ke bumi baru ke tower yang berlawanan.
 
-OKE, HANYA INI YANG BISA SAYA RANGKUM..
--SEKIAN DNA TERIMAKASIH-
+###OKE, HANYA INI YANG BISA SAYA RANGKUM..
+
+#-SEKIAN DAN TERIMAKASIH-
